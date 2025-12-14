@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#Header {
+  background-image: url("./assets/Gold\ modern\ salon\ logo\ \(2\).png");
+
+  background-repeat: no-repeat;
+  background-position: right;
+  object-fit: cover;
+}
