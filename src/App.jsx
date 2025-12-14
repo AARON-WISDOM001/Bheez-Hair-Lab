@@ -163,7 +163,7 @@ export default function App() {
                 Chat with Us
               </a>
             </p>
-            <p className="text-start mt-8">&copy; 2024 Bhees Braiding</p>
+            <p className="text-start mt-8">&copy; 2025 Bhees Braiding</p>
           </div>
 
           {/* Right side - Social links with icons */}
